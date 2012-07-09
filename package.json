@@ -1,7 +1,7 @@
 {
   "name": "select-keys",
   "description": "Select object keys",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "me@mmalecki.com",
   "main": "./lib/select-keys",
   "scripts": {
