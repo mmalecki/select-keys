@@ -1,5 +1,5 @@
 # select-keys [![Build Status](https://secure.travis-ci.org/mmalecki/select-keys.png)](http://travis-ci.org/mmalecki/select-keys)
-Assert that your callback got called.
+Select certain keys from an object
 
 ## Installation
 
