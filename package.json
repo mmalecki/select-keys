@@ -1,0 +1,10 @@
+{
+  "name": "select-keys",
+  "description": "Select object keys",
+  "version": "0.0.0",
+  "author": "me@mmalecki.com",
+  "main": "./lib/select-keys",
+  "scripts": {
+    "test": "node test/select-keys-test.js"
+  }
+}
