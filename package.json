@@ -2,6 +2,7 @@
   "name": "select-keys",
   "description": "Select object keys",
   "version": "0.0.2",
+  "repository": "git://github.com/mmalecki/select-keys.git",
   "author": "me@mmalecki.com",
   "main": "./lib/select-keys",
   "scripts": {
